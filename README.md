@@ -1,3 +1,2 @@
 # TestRepo
-Testing repository - 
-I´ll be uploading some files concernig SQL and Python as a result of the Data Analyst IBM training I am currently enrolled on
+Testing repository - This is the first markdown file and it is the file-assignment of the Course 5 - Python Project for Data Science concerning the Hands-on Lab: Analyzing Historical Stock/Revenue Data and Building a Dashboard
